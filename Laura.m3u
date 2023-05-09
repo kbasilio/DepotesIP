@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%201.png" group-title="Deportes",FOX Sports HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/44176
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV Sports 1 HD (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS.png" group-title="Latinos",DIRECTV Sports 1 HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37837
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 Latino HD (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%202%20SUR.png" group-title="Deportes",FOX Sports 2 Latino HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/56070
+#EXTINF:-1 tvg-id="" tvg-name="Argentina 1985 (2022)" tvg-logo="https://panel.budtv-ultra.com/posters/8WEfBeOaN24Uf8TYQA8lYRXbvUI.jpg" group-title="Ultimas Agregadas	",Argentina 1985 (2022)
+http://live.budtvlight.com:25461/movie/Luna001/18dabf00/109757.mp4
+#EXTINF:-1 tvg-id="2093.stations.xmltv.tvmedia.ca" tvg-name="DeporTV" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DEPORTV.png" group-title="Argentina",DeporTV
+http://live.budtvlight.com:25461/Luna001/18dabf00/1806
+#EXTINF:-1 tvg-id="20369.stations.xmltv.tvmedia.ca" tvg-name="DTV Sports (ARGENTINA) HD" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS.png" group-title="Argentina",DTV Sports (ARGENTINA) HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1643
+#EXTINF:-1 tvg-id="20368.stations.xmltv.tvmedia.ca" tvg-name="DTV Sports 2 (ARGENTINA) SD" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS%202.png" group-title="Argentina",DTV Sports 2 (ARGENTINA) SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1644
+#EXTINF:-1 tvg-id="20368.stations.xmltv.tvmedia.ca" tvg-name="DTV Sports Plus (Chile) SD" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS%20%2B.png" group-title="Chile",DTV Sports Plus (Chile) SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1645
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | AR (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/ESPN.png" group-title="Deportes",ESPN | AR (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/14857
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport Premium HD Mex © Op.2 (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%20PREMIUM.png" group-title="Deportes",FOX Sport Premium HD Mex © Op.2 (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/56034
+#EXTINF:-1 tvg-id="668.stations.xmltv.tvmedia.ca" tvg-name="FOX SPORTS 1 HD Arg" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%201.png" group-title="Argentina",FOX SPORTS 1 HD Arg
+http://live.budtvlight.com:25461/Luna001/18dabf00/1638
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TYC%20SPORTS.png" group-title="Argentina",TyC Sports HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/46603
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (AR) (i)" tvg-logo="" group-title="Argentina",TNT Sports (AR) (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/40978
+#EXTINF:-1 tvg-id="4578.stations.xmltv.tvmedia.ca" tvg-name="TyC Sports (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TYC%20SPORTS.png" group-title="Argentina",TyC Sports (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/1649
+#EXTINF:-1 tvg-id="4578.stations.xmltv.tvmedia.ca" tvg-name="TyC Sports FHD (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TYC%20SPORTS.png" group-title="Argentina",TyC Sports FHD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/11946
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports FHD Enc. (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TYC%20SPORTS.png" group-title="Argentina",TyC Sports FHD Enc. (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/46602
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports UHD (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TYC%20SPORTS.png" group-title="Argentina",TyC Sports UHD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/1651
+#EXTINF:-1 tvg-id="" tvg-name="DTV Sports HD (AR) (i)" tvg-logo="" group-title="Argentina",DTV Sports HD (AR) (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37843
+#EXTINF:-1 tvg-id="1082.stations.xmltv.tvmedia.ca" tvg-name="A24" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/A24.png" group-title="Argentina",A24
+http://live.budtvlight.com:25461/Luna001/18dabf00/1799
+#EXTINF:-1 tvg-id="1894.stations.xmltv.tvmedia.ca" tvg-name="AMERICA TV" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/AMERICATV.png" group-title="Argentina",AMERICA TV
+http://live.budtvlight.com:25461/Luna001/18dabf00/1794
+#EXTINF:-1 tvg-id="32886.stations.xmltv.tvmedia.ca" tvg-name="C5N" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/C5N.png" group-title="Argentina",C5N
+http://live.budtvlight.com:25461/Luna001/18dabf00/1800
+#EXTINF:-1 tvg-id="2010.stations.xmltv.tvmedia.ca" tvg-name="Canal-26-HD" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/CANAL%2026.png" group-title="Argentina",Canal-26-HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1801
+#EXTINF:-1 tvg-id="1960.stations.xmltv.tvmedia.ca" tvg-name="Cine AR" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/CINE%20AR.png" group-title="Argentina",Cine AR
+http://live.budtvlight.com:25461/Luna001/18dabf00/1804
+#EXTINF:-1 tvg-id="176.stations.xmltv.tvmedia.ca" tvg-name="Cronica-HD" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/CRONCIA.png" group-title="Argentina",Cronica-HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1805
+#EXTINF:-1 tvg-id="18861.stations.xmltv.tvmedia.ca" tvg-name="El Trece Internacional" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/EL%20TRECE.png" group-title="Argentina",El Trece Internacional
+http://live.budtvlight.com:25461/Luna001/18dabf00/1815
+#EXTINF:-1 tvg-id="650.stations.xmltv.tvmedia.ca" tvg-name="ESPN  2 SUR FHD" tvg-logo="https://logos.xbots.com.mx/169.png" group-title="Argentina",ESPN  2 SUR FHD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1662
+#EXTINF:-1 tvg-id="594.stations.xmltv.tvmedia.ca" tvg-name="ESPN  1 SUR SD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/ESPN.png" group-title="Argentina",ESPN  1 SUR SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1661
+#EXTINF:-1 tvg-id="2114.stations.xmltv.tvmedia.ca" tvg-name="FOX SPORTS 2 (AR)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%202%20SUR.png" group-title="Argentina",FOX SPORTS 2 (AR)
+http://live.budtvlight.com:25461/Luna001/18dabf00/1639
+#EXTINF:-1 tvg-id="7538.stations.xmltv.tvmedia.ca" tvg-name="FOX SPORTS 3 (AR)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%203%20SUR.png" group-title="Argentina",FOX SPORTS 3 (AR)
+http://live.budtvlight.com:25461/Luna001/18dabf00/1642
+#EXTINF:-1 tvg-id="3333.stations.xmltv.tvmedia.ca" tvg-name="Telefe (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TELEFE.png" group-title="Argentina",Telefe (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/1793
+#EXTINF:-1 tvg-id="" tvg-name="Telefe (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TELEFE.png" group-title="Argentina",Telefe (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/81230
+#EXTINF:-1 tvg-id="" tvg-name="Telefe Internacional (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TELEFE.png" group-title="Argentina",Telefe Internacional (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/81231
+#EXTINF:-1 tvg-id="655.stations.xmltv.tvmedia.ca" tvg-name="TN" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TN%20.png" group-title="Argentina",TN
+http://live.budtvlight.com:25461/Luna001/18dabf00/1811
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT Sports SD" tvg-logo="https://budtv-ultra.com/posters/1617801726478.png" group-title="Argentina",AR | TNT Sports SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1653
+#EXTINF:-1 tvg-id="" tvg-name="DTV Sports Argentina (SD)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS.png" group-title="Argentina",DTV Sports Argentina (SD)
+http://live.budtvlight.com:25461/Luna001/18dabf00/14861
+#EXTINF:-1 tvg-id="" tvg-name="I-FOX Sports 1,I-HD (AR) " tvg-logo="" group-title="Argentina",I-FOX Sports 1,I-HD (AR) 
+http://live.budtvlight.com:25461/Luna001/18dabf00/37828
+#EXTINF:-1 tvg-id="" tvg-name="I-FOX Sports 2 SD (AR)" tvg-logo="" group-title="Argentina",I-FOX Sports 2 SD (AR)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37829
+#EXTINF:-1 tvg-id="" tvg-name="I-FOX Sports 1,I-HD (AR)." tvg-logo="" group-title="Argentina",I-FOX Sports 1,I-HD (AR).
+http://live.budtvlight.com:25461/Luna001/18dabf00/37830
+#EXTINF:-1 tvg-id="" tvg-name="I-FOX Sports 3 HD. (AR)" tvg-logo="" group-title="Argentina",I-FOX Sports 3 HD. (AR)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37831
+#EXTINF:-1 tvg-id="" tvg-name="I-FOX Sports Premiun HD" tvg-logo="" group-title="Argentina",I-FOX Sports Premiun HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/37832
+#EXTINF:-1 tvg-id="" tvg-name="AR | DTV Sports Plus" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS%20%2B.png" group-title="Argentina",AR | DTV Sports Plus
+http://live.budtvlight.com:25461/Luna001/18dabf00/50275
+#EXTINF:-1 tvg-id="" tvg-name="AR | DTV Sports 2" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS%20%2B.png" group-title="Argentina",AR | DTV Sports 2
+http://live.budtvlight.com:25461/Luna001/18dabf00/50276
+#EXTINF:-1 tvg-id="" tvg-name="i | FOX Sports 1  HD (AR)" tvg-logo="" group-title="Argentina",i | FOX Sports 1  HD (AR)
+http://live.budtvlight.com:25461/Luna001/18dabf00/82423
+#EXTINF:-1 tvg-id="1629.stations.xmltv.tvmedia.ca" tvg-name="TV PUBLICA (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TV%20PUBLICA.png" group-title="Argentina",TV PUBLICA (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/1878
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica HD (i)" tvg-logo="" group-title="Argentina",TV Publica HD (i)
+#EXTINF:-1 tvg-id="" tvg-name="EC | Directv Sports +" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DIRECTV%20SPORTS%20%2B.png" group-title="Ecuador",EC | Directv Sports +
+http://live.budtvlight.com:25461/Luna001/18dabf00/21794
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 HD (p)" tvg-logo="https://budtv-ultra.com/posters/1625187771291.png" group-title="Deportes",ESPN 3 HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/14269
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1680303671408.png" group-title="Deportes",ESPN Deportes (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37824
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES (p)" tvg-logo="https://panel.budtv-ultra.com/posters/1680303671408.png" group-title="Deportes",ESPN DEPORTES (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/15453
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/ESPN.png" group-title="Deportes",ESPN HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/3166
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes HD (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20DEPORTES.png" group-title="Deportes",FOX Deportes HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/40910
+#EXTINF:-1 tvg-id="1827.stations.xmltv.tvmedia.ca" tvg-name="Fox Deportes HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20DEPORTES.png" group-title="Deportes",Fox Deportes HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/1510
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes. HD (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20DEPORTES.png" group-title="Deportes",FOX Deportes. HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/40911
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes. HD (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20DEPORTES.png" group-title="Deportes",FOX Deportes. HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/40911
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="Fox Sports 2 HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20SPORTS%202.png" group-title="Deportes",Fox Sports 2 HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/3172
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20SPORTS%202.png" group-title="Canales Menos 3 Mb",FOX SPORTS 2 LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16550
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="Fox Sports 3 HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20SPORTS%203.png" group-title="Deportes",Fox Sports 3 HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/3785
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20SPORTS%203.png" group-title="Canales Menos 3 Mb",FOX SPORTS 3 LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16551
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%201.png" group-title="Deportes",FOX Sports HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/44176
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD Latino" tvg-logo="" group-title="Deportes",FOX Sports HD Latino
+http://live.budtvlight.com:25461/Luna001/18dabf00/44074
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20SPORTS%201.png" group-title="Canales Menos 3 Mb",FOX SPORTS LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16552
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://panel.budtv-ultra.com/posters/1648838500554.png" group-title="Latinos",FRANCE 24
+http://live.budtvlight.com:25461/Luna001/18dabf00/53301
+#EXTINF:-1 tvg-id="" tvg-name="i | (FOX Sports 1 HD)" tvg-logo="" group-title="Deportes",i | (FOX Sports 1 HD)
+http://live.budtvlight.com:25461/Luna001/18dabf00/71933
+#EXTINF:-1 tvg-id="" tvg-name="i | (FOX Sports HD)" tvg-logo="" group-title="Deportes",i | (FOX Sports HD)
+http://live.budtvlight.com:25461/Luna001/18dabf00/71932
+#EXTINF:-1 tvg-id="" tvg-name="i | Adrenalina Sports Net" tvg-logo="" group-title="Deportes",i | Adrenalina Sports Net
+http://live.budtvlight.com:25461/Luna001/18dabf00/85010
+#EXTINF:-1 tvg-id="" tvg-name="i | ESPN 2 HD Latino" tvg-logo="https://panel.budtv-ultra.com/posters/1649701866311.png" group-title="Deportes",i | ESPN 2 HD Latino
+http://live.budtvlight.com:25461/Luna001/18dabf00/69926
+#EXTINF:-1 tvg-id="" tvg-name="i |  ESPN HD Latino" tvg-logo="" group-title="Deportes",i |  ESPN HD Latino
+http://live.budtvlight.com:25461/Luna001/18dabf00/69927
+#EXTINF:-1 tvg-id="" tvg-name="i | EuroChannel" tvg-logo="https://panel.budtv-ultra.com/posters/1648262033199.png" group-title="Latinos",i | EuroChannel
+http://live.budtvlight.com:25461/Luna001/18dabf00/52923
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 Latino HD (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%202%20SUR.png" group-title="Deportes",FOX Sports 2 Latino HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/56070
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20DEPORTES.png" group-title="Deportes",FOX Deportes SD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/93158
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD | US (i)" tvg-logo="" group-title="Deportes",ESPN HD | US (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37821
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | AR (i)" tvg-logo="" group-title="Deportes",ESPN 2 | AR (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37815
+http://live.budtvlight.com:25461/Luna001/18dabf00/81342
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 | AR (i)" tvg-logo="https://budtv-ultra.com/posters/1625187771291.png" group-title="Deportes",ESPN 3 | AR (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37816
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS *SOLO EVENTO* (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1643326833402.png" group-title="Deportes",ESPN PLUS *SOLO EVENTO* (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/39075
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium (AR) (i)" tvg-logo="" group-title="Deportes",ESPN Premium (AR) (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/38746
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | AR (i)" tvg-logo="" group-title="Deportes",ESPN | AR (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37817
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | AR (i)." tvg-logo="" group-title="Deportes",ESPN | AR (i).
+http://live.budtvlight.com:25461/Luna001/18dabf00/37814
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | AR (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/ESPN.png" group-title="Deportes",ESPN | AR (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/14857
+#EXTINF:-1 tvg-id="" tvg-name="i | TNT Sports Enc." tvg-logo="" group-title="Deportes",i | TNT Sports Enc.
+http://live.budtvlight.com:25461/Luna001/18dabf00/59371
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD (i)" tvg-logo="" group-title="Deportes",TNT Sports HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/50543
